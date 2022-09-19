@@ -1,1 +1,9 @@
 this file is made by harsh Aggarwal
+
+clone
+add
+commit
+push
+
+git push origin <branch-name>
+
